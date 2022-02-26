@@ -3,18 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "426313f2f3133c2f20415344c4a22df3",
-"index.html": "f137a7a3eaa2493f25cbf1f55f021ccb",
-"/": "f137a7a3eaa2493f25cbf1f55f021ccb",
-"main.dart.js": "d08918e170d3cd8785ab89e81cd65a58",
+  "version.json": "009c9e65172e010890f7f65fde438006",
+"index.html": "6cdcfbea4f72b60053deaf6972c57f81",
+"/": "6cdcfbea4f72b60053deaf6972c57f81",
+"main.dart.js": "c2c041c7238c42e05486eac0e6dd7f5b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "d40c47d1c161f94dbcb13094d37f1f55",
-"assets/AssetManifest.json": "9b28d4c0537be4bd3d89e0ce329d9a88",
-"assets/NOTICES": "a891f792560742303364b7810c00d614",
+"assets/AssetManifest.json": "268855b21ce1f321c3d1be9badb3c69f",
+"assets/NOTICES": "7dd1cfd5cc07bed7472d9f7852ef1f3f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -60,13 +60,19 @@ const RESOURCES = {
 "assets/assets/playstore.png": "901b6d655723073ff15053eb6dfbcbb8",
 "assets/assets/practice/android_jetpack_compose_multiselect_lazycolumn.jpeg": "f78129d77961266744ef9c9e4a45a7a6",
 "assets/assets/practice/android_native_mvvm_shopping_list_app.jpeg": "a6423eff1b089eda55ded8e79c9ec103",
+"assets/assets/practice/android_native_dagger_hilt_detail.jpeg": "6684650156aee5b08dc407398e2434fa",
 "assets/assets/practice/android_native_mvvm_spotify_clone.jpeg": "30978176c64a30fd285e6c367ec04866",
 "assets/assets/practice/android_native_currency_converter_mvvm_app.jpg": "1dc089d188d364fe0f132c70638e20c6",
 "assets/assets/company/lcp.jpeg": "07b9e5e57345745268e3921054ed396c",
 "assets/assets/company/dsi.png": "829f709eb408ea9104edf8641c1aeecb",
 "assets/assets/company/glovory.jpeg": "0cd302bf4944ddb71e4d2bc84dfd6217",
+"assets/assets/company/moladin.png": "f498200681e393fbd7cb3d6637664888",
 "assets/assets/company/digiponic.png": "d8f9062c3182787ae00c300776e2c715",
-"assets/assets/company/ubig.png": "dad386725d532a780e28801c5039b678"
+"assets/assets/company/ubig.png": "dad386725d532a780e28801c5039b678",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
 };
 
 // The application shell files that are downloaded before a service worker can
